@@ -22,7 +22,7 @@ Feel free to download and use any poster templates/materials included here. I'd 
 ## Plotting:
 ### Seaborn (Python library)
 1. [Main page](https://seaborn.pydata.org/)
-2. [Colors](https://seaborn.pydata.org/tutorial/color_palettes.html - Great breakdown on color choices in plots, including shout outs to other great places that support functional and pleasing color choices. (I admit though, the default palettes used in Seaborn are typically too muted for my tastes)
-3. [Tutorial](https://seaborn.pydata.org/tutorial.html - Listed as a tutorial, but really it's a one-stop shop for "How can I plot X?" Importantly, the subsequent pages document when and why you would want to use some plots over others with your data.  
+2. [Colors](https://seaborn.pydata.org/tutorial/color_palettes.html) - Great breakdown on color choices in plots, including shout outs to other great places that support functional and pleasing color choices. (I admit though, the default palettes used in Seaborn are typically too muted for my tastes)
+3. [Tutorial](https://seaborn.pydata.org/tutorial.html) - Listed as a tutorial, but really it's a one-stop shop for "How can I plot X?" Importantly, the subsequent pages document when and why you would want to use some plots over others with your data.  
 
 Let me know if you come across any other great resources! [joshua.e.zosky@gmail.com](joshua.e.zosky@gmail.com)
